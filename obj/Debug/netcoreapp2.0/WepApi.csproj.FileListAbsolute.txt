@@ -1,0 +1,11 @@
+C:\Users\clbo\Documents\GithubRepos\WepApi\WepApi\bin\Debug\netcoreapp2.0\WepApi.deps.json
+C:\Users\clbo\Documents\GithubRepos\WepApi\WepApi\bin\Debug\netcoreapp2.0\WepApi.runtimeconfig.json
+C:\Users\clbo\Documents\GithubRepos\WepApi\WepApi\bin\Debug\netcoreapp2.0\WepApi.runtimeconfig.dev.json
+C:\Users\clbo\Documents\GithubRepos\WepApi\WepApi\bin\Debug\netcoreapp2.0\WepApi.dll
+C:\Users\clbo\Documents\GithubRepos\WepApi\WepApi\bin\Debug\netcoreapp2.0\WepApi.pdb
+C:\Users\clbo\Documents\GithubRepos\WepApi\WepApi\obj\Debug\netcoreapp2.0\WepApi.csprojResolveAssemblyReference.cache
+C:\Users\clbo\Documents\GithubRepos\WepApi\WepApi\obj\Debug\netcoreapp2.0\WepApi.csproj.CoreCompileInputs.cache
+C:\Users\clbo\Documents\GithubRepos\WepApi\WepApi\obj\Debug\netcoreapp2.0\WepApi.AssemblyInfoInputs.cache
+C:\Users\clbo\Documents\GithubRepos\WepApi\WepApi\obj\Debug\netcoreapp2.0\WepApi.AssemblyInfo.cs
+C:\Users\clbo\Documents\GithubRepos\WepApi\WepApi\obj\Debug\netcoreapp2.0\WepApi.dll
+C:\Users\clbo\Documents\GithubRepos\WepApi\WepApi\obj\Debug\netcoreapp2.0\WepApi.pdb
